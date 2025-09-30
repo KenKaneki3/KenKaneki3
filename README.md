@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @KenKaneki3
-- 👀 I’m interested in android development
-- 🌱 I’m currently learning java,python kotlin and flutter programing
+- 👋 Hi, I’m Naman Patel
+- 👀 I’m interested in Machine Learning and new AI Tech
 - 💞️ I’m looking to collaborate on a android project
 - 📫 you can contact mr through my email- namanp59@gmail.com
 
